@@ -2,6 +2,10 @@
 Данная программа предназначена для подключения по SSH к различным устройствам.
 Преимущество в том, что программа сохраняет данные для подключения и запоминает их.
 После однократного ввода данных потребуется ввести только номер из списка, и программа выполнит подключение по SSH.
+______________________________________________________________________________________________________________________________________
+
+Чтобы начать пользоваться программой, скачайте исполняемый файл ssh_connector
+Запускаете файл в терминале и можете пользоваться.
 
 При первом подключении выберите функцию ручного ввода: 0. Manual input.
 
@@ -24,6 +28,10 @@ ________________________________________________________________________________
 This program is designed to connect via SSH to various devices. 
 The advantage is that the program saves the connection data and remembers it.
 After entering the data once, you will need to enter only the number from the list, and the program will connect via SSH.
+________________________________________________________________________________________________________________________________________
+
+To start using the program, download the ssh_connector executable file
+Run the file in the terminal and you can use it.
 
 When connecting for the first time, select the manual input function: 0. Manual input.
 
