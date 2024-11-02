@@ -34,7 +34,8 @@ After entering the data once, you will need to enter only the number from the li
 ________________________________________________________________________________________________________________________________________
 
 To start using the program, download the ssh_connector executable file
-Run the file in the terminal and you can use it.
+
+Run the file in the terminal chmod +x ssh_connector
 
 When connecting for the first time, select the manual input function: 0. Manual input.
 
