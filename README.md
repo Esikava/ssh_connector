@@ -1,4 +1,5 @@
 # ssh_connector
+Программа под ОС Linux
 Данная программа предназначена для подключения по SSH к различным устройствам.
 Преимущество в том, что программа сохраняет данные для подключения и запоминает их.
 После однократного ввода данных потребуется ввести только номер из списка, и программа выполнит подключение по SSH.
@@ -20,11 +21,10 @@ ________________________________________________________________________________
 Чтобы завершить подключение к устройству, нажмите q и Enter.
 
 Чтобы выйти из программы, нажмите q и Enter.
-
 ________________________________________________________________________________________________________________________________________
 
 # ssh_connector
-
+A program for Linux OS
 This program is designed to connect via SSH to various devices. 
 The advantage is that the program saves the connection data and remembers it.
 After entering the data once, you will need to enter only the number from the list, and the program will connect via SSH.
@@ -46,4 +46,8 @@ To exit the delete mode, select: 0. Return to main menu.
 To complete the connection to the device, press q and Enter.
 
 To exit the program, press q and Enter.
+
+
+
+
 
