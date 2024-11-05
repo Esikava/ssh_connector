@@ -55,7 +55,14 @@ Enter the device name, IP address, username and password.
 
 To delete a connection from the list, select the function: d. Delete connections.
 
-Enter the serial number of the connection
+Enter the serial number of the connection from the list, and it will be deleted.
+
+To exit the delete mode, select: 0. Return to main menu.
+
+To complete the connection to the device, press q and Enter.
+
+To exit the program, press q and Enter.
+________________________________________________________________________________________________________________________________________
 
 
 
